@@ -21,7 +21,9 @@ The task is episodic, and in order to solve the environment, the agent must get 
 The report clearly describes the learning algorithm, along with the chosen hyperparameters. It also describes the model architectures for any neural networks.
 
 ## Plot of Rewards
-A plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment.
+A plot of rewards per episode is included to illustrate that the agent is able to receive an average reward (over 100 episodes) of at least +13. The submission reports the number of episodes needed to solve the environment. Environment solved in 425 episodes!	Average Score: 16.02  
+![image](https://user-images.githubusercontent.com/65574771/210248306-c0a52107-8bc2-44bf-a2e8-e1c66f931741.png)
+
 
 ## Ideas for Future Work
 The submission has concrete future ideas for improving the agent's performance.  
