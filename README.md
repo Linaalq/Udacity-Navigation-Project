@@ -3,6 +3,7 @@
 For this project, I have train an agent to navigate (and collect bananas!) in a large, square world.  
 The "Navigation-Project" is the first project in Udacitys Deep Reinforcement Learning Nanodegree under Value Based Methods section.
 
+![](https://github.com/Linaalq/Udacity-Navigation-Project/blob/main/Navigation%20Agent%20(1).gif)
 
 ## 🍌 Trained Agent
 
