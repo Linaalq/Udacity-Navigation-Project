@@ -3,7 +3,7 @@
 For this project, I have train an agent to navigate (and collect bananas!) in a large, square world.  
 The "Navigation-Project" is the first project in Udacitys Deep Reinforcement Learning Nanodegree under Value Based Methods section.
 
-![](https://github.com/Linaalq/Udacity-Navigation-Project/blob/main/Navigation%20Agent%20(1).gif)
+![My agent collecting Bananas!](https://github.com/Linaalq/Udacity-Navigation-Project/blob/main/Navigation%20Agent%20(1).gif)
 
 ## 🍌 Trained Agent
 
@@ -19,7 +19,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, the agent must get an average score of +13 over 100 consecutive episodes.
 
 ## 🍌 Implementation
-The project was solved by making minor modifications to the DQN code provided as part of the Deep Q-Networks lesson. Where the details are mentioned in the following [paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf).
+The project was solved by making minor modifications to the DQN code provided as part of the Deep Q-Networks lesson. Where the details of Deep Q-Networks are mentioned in the following [paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf).
 
 ## 🍌 Getting Started
 ### Step 1
@@ -41,4 +41,4 @@ Then, place the file in the `p1_navigation/` folder in the course GitHub reposit
 (For AWS) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
 ### Step 3
-After you have followed the instructions above, open Navigation.ipynb (located in the p1_navigation/ folder in the course GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
+After you have followed the instructions above, open `Navigation.ipynb` (located in the `p1_navigation/` folder in the course GitHub repository) and follow the instructions to learn how to use the Python API to control the agent.
